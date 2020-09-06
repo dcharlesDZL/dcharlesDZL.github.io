@@ -1,10 +1,10 @@
 # dcharlesDZL Blog
 
-[测试](posts/test1.md)
+[测试](post/test1.md)
 
-[Jekyll 安装](posts/JekyllInstallation.md) 
+[Jekyll 安装](post/JekyllInstallation.md) 
 
-[Typora Linux 报错](posts/TyporaLinuxInstallationError.md) 
+[Typora Linux 报错](post/TyporaLinuxInstallationError.md) 
 
 
 
